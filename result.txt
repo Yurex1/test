@@ -210,7 +210,7 @@
   "balanceInNear": 3.0336358492695186
 }{
   "id": "georgiy_ulanov.crowdforces.near",
-  "balanceInNear": 1.5357113884048557
+  "balanceInNear"312312: 1.5357113884048557
 }{
   "id": "parascitizen.near",
   "balanceInNear": 0.1493352239108538
