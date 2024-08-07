@@ -1,0 +1,254 @@
+[
+  {
+    "id": "monogon.crowdforces.near",
+    "balanceInNear": 3.8512998445216047
+  },
+  {
+    "id": "orz_phyxnj.crowdforces.near",
+    "balanceInNear": 3.2140819753539756
+  },
+  {
+    "id": "fetiorin.crowdforces.near",
+    "balanceInNear": 3.1248552244884107
+  },
+  {
+    "id": "li24yang75.crowdforces.near",
+    "balanceInNear": 3.1063684188850518
+  },
+  {
+    "id": "p_olli.crowdforces.near",
+    "balanceInNear": 3.0907443219856834
+  },
+  {
+    "id": "asaduiio.crowdforces.near",
+    "balanceInNear": 3.079060029602688
+  },
+  {
+    "id": "kanna.crowdforces.near",
+    "balanceInNear": 3.0500985667453624
+  },
+  {
+    "id": "compiler_nai.crowdforces.near",
+    "balanceInNear": 3.0390847839041597
+  },
+  {
+    "id": "mixalchik545.crowdforces.near",
+    "balanceInNear": 3.0336358492695186
+  },
+  {
+    "id": "rs_sh.near",
+    "balanceInNear": 2.8154699080816625
+  },
+  {
+    "id": "fedos.near",
+    "balanceInNear": 2.803655907002014
+  },
+  {
+    "id": "fliahin.crowdforces.near",
+    "balanceInNear": 2.6011221736682266
+  },
+  {
+    "id": "vataliy.crowdforces.near",
+    "balanceInNear": 2.439012067731231
+  },
+  {
+    "id": "fedosova.near",
+    "balanceInNear": 2.220959677758739
+  },
+  {
+    "id": "zhakhongir.near",
+    "balanceInNear": 2.165854095495355
+  },
+  {
+    "id": "c0olb0y.crowdforces.near",
+    "balanceInNear": 2.1294401135976586
+  },
+  {
+    "id": "704246158.crowdforces.near",
+    "balanceInNear": 2.1212655228689914
+  },
+  {
+    "id": "greenworm.crowdforces.near",
+    "balanceInNear": 2.0915505303878628
+  },
+  {
+    "id": "inrage.crowdforces.near",
+    "balanceInNear": 2.0482116220150113
+  },
+  {
+    "id": "vituk.near",
+    "balanceInNear": 2.030318329537411
+  },
+  {
+    "id": "sirshokoladina.crowdforces.near",
+    "balanceInNear": 2.004171831871967
+  },
+  {
+    "id": "clever_unior.crowdforces.near",
+    "balanceInNear": 1.9773915412112364
+  },
+  {
+    "id": "hearthstone.near",
+    "balanceInNear": 1.8987892579430736
+  },
+  {
+    "id": "kco_c.crowdforces.near",
+    "balanceInNear": 1.870536538267298
+  },
+  {
+    "id": "v_nyusha_v.crowdforces.near",
+    "balanceInNear": 1.836470238420607
+  },
+  {
+    "id": "walida.near",
+    "balanceInNear": 1.804276882894028
+  },
+  {
+    "id": "fairywinx.crowdforces.near",
+    "balanceInNear": 1.7450367622762535
+  },
+  {
+    "id": "mercurialclout.near",
+    "balanceInNear": 1.7052897055263516
+  },
+  {
+    "id": "qwearer.crowdforces.near",
+    "balanceInNear": 1.701681083477597
+  },
+  {
+    "id": "potatmen.crowdforces.near",
+    "balanceInNear": 1.698508462825105
+  },
+  {
+    "id": "ng-cf.crowdforces.near",
+    "balanceInNear": 1.6777972622157051
+  },
+  {
+    "id": "bogdangalka.crowdforces.near",
+    "balanceInNear": 1.6668066566504631
+  },
+  {
+    "id": "strilcova.crowdforces.near",
+    "balanceInNear": 1.6639182018157117
+  },
+  {
+    "id": "vitalics.crowdforces.near",
+    "balanceInNear": 1.6399595458055527
+  },
+  {
+    "id": "raildab.crowdforces.near",
+    "balanceInNear": 1.5957972843412924
+  },
+  {
+    "id": "iltt7.crowdforces.near",
+    "balanceInNear": 1.592343947229693
+  },
+  {
+    "id": "benbbb.crowdforces.near",
+    "balanceInNear": 1.5904881737516154
+  },
+  {
+    "id": "eferlovob.near",
+    "balanceInNear": 1.5870846630749904
+  },
+  {
+    "id": "mesuhdu.crowdforces.near",
+    "balanceInNear": 1.5860515554852825
+  },
+  {
+    "id": "anvesh16.crowdforces.near",
+    "balanceInNear": 1.585964726709999
+  },
+  {
+    "id": "phuthai_29_06_05.crowdforces.near",
+    "balanceInNear": 1.581047714905392
+  },
+  {
+    "id": "dsgrekova2.crowdforces.near",
+    "balanceInNear": 1.5750628139357936
+  },
+  {
+    "id": "antsyn23.crowdforces.near",
+    "balanceInNear": 1.5718836911281184
+  },
+  {
+    "id": "savvadimailya.crowdforces.near",
+    "balanceInNear": 1.5708029146071456
+  },
+  {
+    "id": "sd282024.crowdforces.near",
+    "balanceInNear": 1.5706939729861478
+  },
+  {
+    "id": "lzsz1212.crowdforces.near",
+    "balanceInNear": 1.5621028652028623
+  },
+  {
+    "id": "kmrt.crowdforces.near",
+    "balanceInNear": 1.561776675368646
+  },
+  {
+    "id": "kandyman.crowdforces.near",
+    "balanceInNear": 1.5615138588553457
+  },
+  {
+    "id": "lelkok220.crowdforces.near",
+    "balanceInNear": 1.5599779746966584
+  },
+  {
+    "id": "ramapangorz.crowdforces.near",
+    "balanceInNear": 1.5499525318154905
+  },
+  {
+    "id": "nikoseven.crowdforces.near",
+    "balanceInNear": 1.5492062559922524
+  },
+  {
+    "id": "manro.crowdforces.near",
+    "balanceInNear": 1.5461024124204936
+  },
+  {
+    "id": "v_mohito_v.crowdforces.near",
+    "balanceInNear": 1.5358008960919516
+  },
+  {
+    "id": "georgiy_ulanov.crowdforces.near",
+    "balanceInNear": 1.5357113884048557
+  },
+  {
+    "id": "moe.crowdforces.near",
+    "balanceInNear": 1.5357053196514945
+  },
+  {
+    "id": "newsolars.crowdforces.near",
+    "balanceInNear": 1.5352506568258106
+  },
+  {
+    "id": "msattrtand.crowdforces.near",
+    "balanceInNear": 1.5351947864024016
+  },
+  {
+    "id": "zjnuvjudge1.crowdforces.near",
+    "balanceInNear": 1.534093181116396
+  },
+  {
+    "id": "hapkomah.crowdforces.near",
+    "balanceInNear": 1.5333409396890179
+  },
+  {
+    "id": "cloudy97.crowdforces.near",
+    "balanceInNear": 1.532947306579621
+  },
+  {
+    "id": "sherlock_nad.crowdforces.near",
+    "balanceInNear": 1.532606197359546
+  },
+  {
+    "id": "ezoj_m22.crowdforces.near",
+    "balanceInNear": 1.532426317409334
+  },
+  {
+    "id": "buenasdiaz.crowdforces.near",
+    "balanceInNear": 1.5304911554384393
+  }
+]
